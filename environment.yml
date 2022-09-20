@@ -1,4 +1,4 @@
-name: Muon-hats-2022
+name: Muon-HATS-2022
 channels:
     - conda-forge
     - defaults
